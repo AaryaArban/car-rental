@@ -36,9 +36,9 @@ A Flutter-based mobile application for managing personal car listings and rental
    
    ```bash
 
-   git clone https://github.com/your-username/mycarrental-app.git
+   https://github.com/AaryaArban/car-rental.git
 
-   cd mycarrental-app
+   cd car-rental
 
 2. **Install dependencies**
    
